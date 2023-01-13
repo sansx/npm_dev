@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { Gantt, Task, EventOption, StylingOption, ViewMode, DisplayOption } from 'gantt-task-react';
-import "gantt-task-react/dist/index.css";
+import "gantt-task-react-css";
 import { useRef } from 'react'
 
 
